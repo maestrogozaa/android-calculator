@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="botonAC" type="id" />
+    <item name="botonSin" type="id" />
+    <item name="botonCos" type="id" />
+    <item name="boton7" type="id" />
+    <item name="boton8" type="id" />
+    <item name="boton9" type="id" />
+    <item name="botonDividir" type="id" />
+    <item name="boton4" type="id" />
+    <item name="boton5" type="id" />
+    <item name="boton6" type="id" />
+    <item name="botonMultiplicar" type="id" />
+    <item name="boton1" type="id" />
+    <item name="boton2" type="id" />
+    <item name="boton3" type="id" />
+    <item name="botonRestar" type="id" />
+    <item name="boton0" type="id" />
+    <item name="botonBorrar" type="id" />
+    <item name="botonCalcular" type="id" />
+    <item name="botonSumar" type="id" />
+</resources>
